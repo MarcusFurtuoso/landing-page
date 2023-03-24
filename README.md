@@ -1,2 +1,2 @@
-# landing-page
-## Link: <a href="landingpagemf.netlify.app">Landing-page</a>
+# Project landing-page
+## Link: <a href="landingpagemf.netlify.app">Click here</a>
